@@ -37,7 +37,8 @@
   },
   "dependencies": {
     "follow-redirects": "^1.15.5",
-    "tar-fs": "^3.0.5"
+    "tar-fs": "^3.0.5",
+    "playwright-core": "^1.42.1"
   },
   "devDependencies": {
     "@tsconfig/node16": "^16.1.1",
